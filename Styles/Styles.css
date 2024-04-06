@@ -49,7 +49,7 @@ h1, h2, h3, h4, p {
 }
 
 .gift-img {
-    background-image: url("/images/gift-cover.jpg");
+    background-image: url("../images/gift-cover.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     margin: 0 auto;
@@ -60,19 +60,19 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("/images/giphy.gif");
+    background-image: url("../images/giphy.gif");
 }
 
 #gift-img-hot:hover {
-    background-image: url("/images/happy.gif");
+    background-image: url("../images/happy.gif");
 }
 
 #gift-img-genius:hover {
-    background-image: url("/images/genius.gif");
+    background-image: url("../images/genius.gif");
 }
 
 #gift-img-badass:hover {
-    background-image: url("/images/badass.gif");
+    background-image: url("../images/badass.gif");
 }
 
 #gift-img-cheers {
@@ -81,7 +81,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-cheers:hover {
-    background-image: url("/images/cheers.gif");
+    background-image: url("../images/cheers.gif");
 }
 
 #footer {
